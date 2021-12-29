@@ -1,4 +1,4 @@
-# :red_square: Xploitfree Scanner - _A Automated Multi-Tool Web Application Scanner_ :red_sqare:
+# :red_square: Xploitfree Scanner - _A Automated Multi-Tool Web Application Scanner_ :red_square:
 
 ## Evolution:
 > It is quite a mess for a pentester to perform _**binge-tool-scanning**_ (_running security scanning tools one after the other_) sans automation. Unless you are a pro at automating stuff, it is a herculean task to perform binge-scan for each and every engagement. The ultimate goal of this program is to solve this problem through automation; viz. **running multiple scanning tools to discover vulnerabilities, effectively judge false-positives, collectively correlate results** and **saves precious time**; all these under one roof.<p>Enter **Xploitfree scanner**.
@@ -45,7 +45,10 @@
 ## Usage 
  `python3 xploitfree.py example.com`
 
-https://user-images.githubusercontent.com/51978908/147648725-54912420-3697-40ea-9311-644c11781c86.mp4
+
+https://user-images.githubusercontent.com/51978908/147658165-c060ea64-b52b-4ac2-9f1a-65f53a4f6bf1.mp4
+
+
 
 ## Contribution
 
