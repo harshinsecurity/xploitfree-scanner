@@ -43,7 +43,7 @@
 - Tested with Parrot & Ubuntu Operating Systems.
 
 ## Usage 
- `python3 xploitfree_scan.py example.com`
+ `python3 xploitfree.py example.com`
 
 https://user-images.githubusercontent.com/51978908/147642427-1d9d9158-b1e6-44ed-8e03-57405026272e.mp4
 
