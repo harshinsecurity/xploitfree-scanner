@@ -45,8 +45,7 @@
 ## Usage 
  `python3 xploitfree_scan.py example.com`
 
-https://user-images.githubusercontent.com/6489729/138737524-9c4dc567-ec78-40b4-9a7b-8ff52d5dc98b.mp4
-
+https://user-images.githubusercontent.com/51978908/147642224-87e69fd4-90c3-4751-89ad-b8db41844422.mp4
 
 ## Contribution
 - https://gist.github.com/MarcDiethelm/7303312
