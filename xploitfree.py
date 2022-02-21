@@ -18,7 +18,7 @@
 #              multitude of available linux security tools and some custom scripts.
 #
 
-# Importing the libraries
+# Importing the librarie
 import sys
 import argparse
 import subprocess
